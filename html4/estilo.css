@@ -1,0 +1,24 @@
+h1{
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+main{
+    color:darkmagenta;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    font-weight: bold;
+    color:darkorchid;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer{ font-weight: bold;
+    color:darkorchid;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-weight: bold;
+    color:darkmagenta;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
