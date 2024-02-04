@@ -4,9 +4,15 @@ h1{
     font-style: italic;
 }
 
+header{
+    background-color: grey;
+}
 main{
     color:darkmagenta;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex; block-size: auto;
+    display:block;
+    width: 300px;
 }
 a{
     font-weight: bold;
